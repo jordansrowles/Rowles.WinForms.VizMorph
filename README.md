@@ -1,6 +1,6 @@
-# Rowles.WinForms.VizMorph
+# VizMorph
 
-## SparklineGraph Control for WinForms
+![VizMorph](./.github/VizMorph.gif)
 
 ### Features
 - **High-Performance Streaming**:
